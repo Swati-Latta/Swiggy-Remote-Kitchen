@@ -12,3 +12,8 @@
 
 # Area wise cheap restaurant
 ![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/ad4e83f0-0b83-4694-9167-300e9bd0b12d)
+
+
+# Area wise expensive restaurant
+
+![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/3999ae4c-694d-4697-8787-6a7c280eb60f)
