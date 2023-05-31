@@ -15,5 +15,8 @@
 
 
 # Area wise expensive restaurant
-
 ![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/3999ae4c-694d-4697-8787-6a7c280eb60f)
+
+
+# Number of restaurant for each type of cuisine
+![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/e04856c3-f7d3-4f35-85e0-39dcd80da469)
