@@ -24,3 +24,6 @@
 
 # AREA WISE RATING DISTRIBUTION
 ![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/cbdfd046-ca81-48f9-bdc7-a61d09360657)
+
+# DASHBOARD
+![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/5a7c1e48-4fbd-4a57-a811-40723324b3ca)
