@@ -27,3 +27,21 @@
 
 # DASHBOARD
 ![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/5a7c1e48-4fbd-4a57-a811-40723324b3ca)
+
+
+
+# **INSIGHTS**
+
+**1. Indiranagar has the highest average rating of 4.7 among all the locations.**\
+**2. Brigade Road and Frazer Town both have an average rating of 4.4, which is the second-highest after Indiranagar.**\
+**3. Richmond Town has the highest average price_for_one of 1750, which is significantly higher than other locations.**\
+**4. The highest number of reviews are received by locations such as Brigade Road, Jayanagar, JP Nagar, Koramangala, Shivaji Nagar, and Vignana Nagar.**\
+**5. The lowest average rating is in Ashok Nagar with a rating of 2.4.**\
+**6. The highest average review number is 10,000 for several locations such as 4th Block, 7th Block, and Richmond Town, indicating that these locations are highly popular among customers.**\
+**7. Indiranagar has the highest maximum rating of 4.7 with 14 restaurants having this rating.  of 4.5**\
+**8. Jayanagar also has a maximum rating of 4.7 but with 12 restaurants having this rating.**\
+**9. Banashankari has a maximum rating with 9 restaurants having this rating.**\
+**10.The maximum price for one serving of food or meal is also the highest in Richmond Town, with a price of 1750. Other locations with high maximum prices include St Marks Road with a price of 650 and Ashok Nagar with a price of 375.**
+
+
+
