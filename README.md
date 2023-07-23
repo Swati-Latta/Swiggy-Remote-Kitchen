@@ -1,4 +1,7 @@
+
+
 # Swiggy-Remote-Kitchen
+
 **Food Delivery Analysis**
 
 **Swiggy has rapidly grown to become one of the most popular food delivery services in India. Swiggy's platform allows users to order food from a wide range of restaurants in their area and have it delivered to their doorstep in a timely and convenient manner. Swiggy also offers a range of features such as real-time order tracking, in-app chat support, and multiple payment options to enhance the user experience. In addition to food delivery, Swiggy has also expanded into other areas such as hyperlocal delivery, groceries, and medicine delivery. As of 2021, Swiggy operates in more than 500 cities across India and has a strong network of delivery partners and restaurant partners.**
@@ -76,7 +79,7 @@
 
 **Help the existing Restaurant owners with the Data of their performance compared to others, new cuisines they can opt for business expansion, optimum prices that they can charge etc.**
 
-**To look for the level of Customer's satisfaction and to help Zomato in finding out the locations and the restaurants they need to work upon for betterment of the business.**
+**To look for the level of Customer's satisfaction and to help Swiggy in finding out the locations and the restaurants they need to work upon for betterment of the business.**
 
 **Empowerment of common people with the relevant information that can help them to establish succesful food business, generate employment and aid to the raising employment rate of the country.**
 
