@@ -30,6 +30,17 @@
 **o	Analysed the Restaurants based on the Cuisines they Serve.**
 
 **o	Found out the Most Expensive and the Cheapest Restaurants that serve a particular Cuisine in Bangalore.**
+<br>
+<br>
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
+1. Data Scraping: Used Python with libraries like Selenium and BeautifulSoup to scrape data from the West Bengal State Election Commission website. The scraped data was then saved in a structured format.
+
+2. Data Cleaning and Preprocessing: Performed data cleaning and preprocessing using Excel. This step involved handling missing values, correcting data inconsistencies, and ensuring the data is in a clean and usable form.
+
+3. Visualization: To find insights I have prepared certain graphs like bar charts, line graph etc.
+
+4. Created an Interactive and Attractive Dashboard with the charts and visuals created previously.
 
 
 
