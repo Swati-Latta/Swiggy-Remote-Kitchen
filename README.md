@@ -19,28 +19,48 @@
 <br>
 
 # **Analysis**
-**o Analysed the number of Restaurants listed on Swiggy in each Location in Bangalore.**
 
-**o	Found out the Most Expensive and the Cheapest Restaurants in each location in Bangalore.**
- 
-**o	Analysed the Restaurants based on their Food Ratings and Delivery Ratings.**
+    o	Area-wise distribution of restaurant.
+  
+    o	Cuisines wise Cheap and Expensive restaurant.
+  
+    o	Location with Maximum number of restaurant where the Delivery_review_number is greater than 1000.
+  
+    o	Location wise Maximum number of less rated restaurant.
+  
+    o	Area-wise expensive and cheap restaurant.
+  
+    o	Number of restaurant  for each type of Cuisines.
+  
+    o	Area-wise distribution of restaurant.
+  
+    o	Best location to open a restaurant in Bengaluru.  
+  
+    o	Top famous cuisines  based on area. 
+  
 
-**o	Analysed the Locations based on their Ratings of the Restaurants.**
-
-**o	Analysed the Restaurants based on the Cuisines they Serve.**
-
-**o	Found out the Most Expensive and the Cheapest Restaurants that serve a particular Cuisine in Bangalore.**
 <br>
 <br>
+
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-1. Data Scraping: Used Python with libraries like Selenium and BeautifulSoup to scrape data from the West Bengal State Election Commission website. The scraped data was then saved in a structured format.
 
-2. Data Cleaning and Preprocessing: Performed data cleaning and preprocessing using Excel. This step involved handling missing values, correcting data inconsistencies, and ensuring the data is in a clean and usable form.
+    1. Started with scrapping of the data from Swiggy's website with Python via Beatiful Soup and Selenium Librabies and saving it into excel files.
+    
+    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into Python Jyputer Notebook for further analysis. 
+    
+    3. Exported all the tables from Notebook to MS Excel and created required tables to gain some insights.
+    
+    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
+    
+    6. Created different charts from the table for better understanding of the data.
+    
+    7. Also Designed a Interactive Dashboard from the charts for better visualisation
+    
+    8. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
+   
 
-3. Visualization: To find insights I have prepared certain graphs like bar charts, line graph etc.
 
-4. Created an Interactive and Attractive Dashboard with the charts and visuals created previously.
 
 
 
